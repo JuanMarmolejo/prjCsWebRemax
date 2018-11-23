@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="prjCsWebRemax.House">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iIBAAAAEAQAkAABYAAECCAAAAYgYABJAFAAiAwAAgAU=</HashCode>
+      <FileName>bus\House.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjCsWebRemax.HouseList">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAIAAACBAAAAAAAAAQAAAAIAAAAAAAAAAQgAAAIAA=</HashCode>
+      <FileName>bus\HouseList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjCsWebRemax.Person">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAIIAAAAAQIQAAAQCAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>bus\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjCsWebRemax.Employee">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAQIAAAABCACESAAUAQAAAIQAAAASAAYgAIAAAQ=</HashCode>
+      <FileName>bus\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjCsWebRemax.Client">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAGEAAEAAAAAACAAAAEAiAAAAAAQAQAAAAIAAAAAAAA=</HashCode>
+      <FileName>bus\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjCsWebRemax.ClientList">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAoAAAAAAABAAAAAAQAAAgAABAAAAAAAARgAAAAAA=</HashCode>
+      <FileName>bus\ClientList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjCsWebRemax.EmployeeList">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAIAAAAAIBAQAABAAQAAAAAAAAACQAAAASggAAAAA=</HashCode>
+      <FileName>bus\EmployeeList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjCsWebRemax.Company" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAEAAAAAAAAAAAAAAAACCAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bus\Company.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjCsWebRemax.Sendmail">
+    <Position X="6.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAABACAAAAAAAAAAABQAAEAAAMgAAAAA=</HashCode>
+      <FileName>bus\Sendmail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="prjCsWebRemax.PropertyType" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAABAAAAAAAAAEAAAACAAAAA=</HashCode>
+      <FileName>bus\PropertyType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="prjCsWebRemax.Role">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bus\Role.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="prjCsWebRemax.ClientType">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>bus\ClientType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
